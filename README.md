@@ -23,7 +23,7 @@
 devansh = {
     "name"       : "Devansh Mittal",
     "role"       : "Intern @ UBS · CS Student @ VIT Bhopal",
-    "domain"     : "Fintech · Banking Tech · Software Engineering",
+    "domain"     : "AI · Fintech · Banking Tech · Software Engineering",
     "strengths"  : ["Problem Solving", "DSA & Algorithms", "Building Products", "Clean Code"],
     "mindset"    : "Every constraint is a design problem. Every bug is a lesson.",
     "motto"      : "Write code that works. Then write code that lasts."
