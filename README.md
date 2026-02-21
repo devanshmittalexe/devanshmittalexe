@@ -1,21 +1,17 @@
-```
-██████╗ ███████╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗    ███╗   ███╗██╗████████╗████████╗ █████╗ ██╗
-██╔══██╗██╔════╝██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║    ████╗ ████║██║╚══██╔══╝╚══██╔══╝██╔══██╗██║
-██║  ██║█████╗  ██║   ██║███████║██╔██╗ ██║███████╗███████║    ██╔████╔██║██║   ██║      ██║   ███████║██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║    ██║╚██╔╝██║██║   ██║      ██║   ██╔══██║██║
-██████╔╝███████╗ ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║    ██║ ╚═╝ ██║██║   ██║      ██║   ██║  ██║███████╗
-╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚══════╝
-```
-
 <div align="center">
 
-# `> Hello, devs.`
+<!-- Banner - renders perfectly on GitHub, no font issues -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FF94&height=200&section=header&text=DEVANSH%20MITTAL&fontSize=60&fontColor=0a0e0f&fontAlignY=38&desc=Focused%20on%20Growth.%20Driven%20by%20Curiosity.&descAlignY=58&descSize=18&descColor=0a0e0f&animation=fadeIn)
 
-**Devansh Mittal** · Agentic AI & Computer Vision Enthusiast · Problem Solver in Progress
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=00FF94&center=true&vCenter=true&width=680&lines=%3E+Hello%2C+devs.+%F0%9F%91%8B;Intern+%40+UBS+%7C+Fintech+%26+Banking+Tech;CS+Student+%40+VIT+Bhopal;Problem+Solver+%7C+Builder+%7C+Coder;Investor+%F0%9F%93%88;Turning+Logic+into+Impact.)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devanshmittalexe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshmittalexe)
 [![GitHub](https://img.shields.io/badge/GitHub-devanshmittalexe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshmittalexe)
-[![LeetCode](https://img.shields.io/badge/LeetCode-devanshmittal_exe-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devanshmittal_exe)
+[![LeetCode](https://img.shields.io/badge/LeetCode-devanshmittal__exe-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/devanshmittal_exe)
 
 </div>
 
@@ -25,11 +21,12 @@
 
 ```python
 devansh = {
-    "name"     : "Devansh Mittal",
-    "status"   : "CS Student passionate about AI and real-world applications",
-    "focus"    : ["Agentic AI", "Computer Vision", "Problem Solving"],
-    "building" : ["SkillMirror AI", "Solar Panel Detection"],
-    "motto"    : "Every problem is an opportunity to build something useful"
+    "name"       : "Devansh Mittal",
+    "role"       : "Intern @ UBS · CS Student @ VIT Bhopal",
+    "domain"     : "Fintech · Banking Tech · Software Engineering",
+    "strengths"  : ["Problem Solving", "DSA & Algorithms", "Building Products", "Clean Code"],
+    "mindset"    : "Every constraint is a design problem. Every bug is a lesson.",
+    "motto"      : "Write code that works. Then write code that lasts."
 }
 ```
 
@@ -42,21 +39,21 @@ devansh = {
 <td width="50%">
 
 ### 🤖 SkillMirror AI
-An autonomous agent that evaluates your knowledge on any subject. Generates questions, grades answers, tracks progress — fully driven by an LLM agentic loop.
+An autonomous agent that evaluates your knowledge on any subject. Generates questions, grades answers, and tracks progress — fully driven by an LLM agentic loop.
 
 **Stack:** `Python` `Anthropic SDK` `Agentic AI`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/devanshmittalexe/SkillMasterAI)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshmittalexe/SkillMasterAI)
 
 </td>
 <td width="50%">
 
 ### ☀️ Solar Panel Detection
-Computer vision project for detecting solar panels — combining deep learning with real-world environmental application.
+Computer vision system for detecting solar panels from aerial imagery — real-world environmental application backed by deep learning.
 
 **Stack:** `Python` `Computer Vision` `Deep Learning`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/devanshmittalexe)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshmittalexe)
 
 </td>
 </tr>
@@ -72,16 +69,19 @@ Computer vision project for detecting solar panels — combining deep learning w
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**AI / ML**
+**Domain**
 
-![Anthropic](https://img.shields.io/badge/Anthropic_SDK-191919?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Fintech](https://img.shields.io/badge/Fintech-00875A?style=flat-square&logoColor=white)
+![Banking Tech](https://img.shields.io/badge/Banking_Tech-E60000?style=flat-square&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA_%26_Algorithms-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![System Design](https://img.shields.io/badge/System_Design-6C47FF?style=flat-square&logoColor=white)
 
-**Tools**
+**Stack**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ---
 
@@ -99,17 +99,23 @@ Computer vision project for detecting solar panels — combining deep learning w
 
 ```
 devansh@dev:~$ uptime
-Currently: Learning · Building · Shipping
-Interests: Agentic AI · Computer Vision · Clean Code
-Next: More projects, more problems, more solutions
+
+Role      →  Intern @ UBS  |  CS Student @ VIT Bhopal
+Domain    →  Fintech · Banking Tech · Software Engineering
+Grinding  →  DSA · LeetCode · System Design
+Building  →  Products that solve real problems
+Status    →  Learning · Shipping · Levelling up
 ```
 
 ---
 
 <div align="center">
 
-*`// Always open to interesting problems and cool collaborations`*
+*`// Comfortable in codebases, trading floors, and everything in between.`*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=devanshmittalexe&color=00FF94&style=flat-square&label=PROFILE+VIEWS)
+
+<!-- Footer wave -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00FF94&height=80&section=footer)
 
 </div>
